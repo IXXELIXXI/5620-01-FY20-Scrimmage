@@ -1,0 +1,574 @@
+current_time=0
+description=""
+experience_modifier=70
+id="Level 1.map"
+map_data="border_size=1
+usage=map
+
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Rb, Rb, Rb, Rb, Khs, Khs, Khs, Rb, Gs^Vh, Rb, Rb, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Rb, Rb, Rb, Rb, Khs, Khs, 2 Chs, Khs, Khs, Khs, Rb, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Rb, Rb, Rb, Khs, Khs, Khs, Khs, Khs, Khs, Khs, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Rb, Rb, Rb, Rb, Rb, Khs, Khs, Khs, Rb, Rb, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Gg, Gg, Gs^Fms, Re, Re, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Gg, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Gg, Re, Re, Re, Re, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Rb, Re, Rb, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Gs^Fms, Gg, Gs^Fms, Gg, Gg, Re, Re, Re, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Vh, Gg, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Gs^Fms, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gg, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gg, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gg, Gg
+Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gg, Gg
+Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Rb, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Re, Re, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Gg, Re, Re, Re, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Gs^Fms, Gg, Gs^Fms, Gg, Gg, Re, Re, Re, Re, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Gg, Re, Re, Re, Re, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Gs^Fms, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Wwt, Wwt, Wwt, Gs^Fms, Gs^Vht, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vht, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Wwt, Gs^Fms, Wwt, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Dd, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Wwt, Wwt, Wo, Wo, Wo, Wwt, Wo, Wwt, Wwt, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Dd, Wwt, Dd, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Dd, Dd, Dd, Dd, Gs^Fms, Dd, Dd, Wwt, Wwt, Wo, Wo, Wot, Wot, Wot, Wo, Wo, Wwt, Wwt, Gs^Fms, Gs^Vht, Gs^Fms, Wwt, Wwt, Wwt, Gs^Fms, Wwt, Gs^Fms, Wwt, Gs^Fms, Wwt, Re, Wwt, Gs^Fms, Gs^Fms, Gg
+Wwt, Wwt, Wwt, Dd, Wwt, Dd, Wwt, Dd, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Dd, Wwt, Wwt, Wwt, Wwt, Wo, Wwt, Wot, Wot, Wot, Wot, Wot, Wo, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Gg
+Gs^Fms, Wwt, Gs^Fms, Wwt, Gs^Fms, Wwt, Gs^Fms, Wwt, Re, Wwt, Gg, Wwt, Gs^Fms, Wwt, Gs^Fms, Wwt, Gs^Fms, Wwt, Wwt, Wwt, Wwt, Wo, Wo, Wot, Wot, Wot, Wot, Wo, Wo, Wwt, Wwt, Wwt, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Wwt, Wwt, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wwt, Wwt, Gs^Vht, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Wwt, Wwt, Wwt, Wwt, Wo, Wwt, Wwt, Wwt, Wwt, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Gg, Re, Re, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vht, Gs^Fms, Wwt, Gs^Fms, Wwt, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Vh, Gs^Fms, Gg
+Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Gg, Gg, Gg, Re, Re, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gg, Gg, Gs^Vh, Gg, Gg, Gg, Re, Re, Re, Re, Re, Re, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gs^Fms, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Re, Re, Re, Gs^Fms, Gs^Fms, Gg
+Gg, Gg, Gg, Gg, Ce, Ce, Ce, Re, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Re, Gg
+Gg, Gg, Gg, Ce, Ce, 1 Ch, Ce, Ce, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Gs^Fms, Re, Gs^Fms, Gs^Fms, Gs^Fms, Re, Gs^Fms, Re, Gs^Fms, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, 3 Re, Re, Gs^Fms, Gg
+Gg, Gs^Vh, Gg, Gg, Gg, Ce, Gg, Gg, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Gs^Fms, Gg
+Gg, Gg, Gg, Gs^Vh, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Vh, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Re, Gs^Fms, Gs^Fms, Gs^Fms, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fms, Gg, Gs^Fms, Gg, Gg, Gg, Gs^Fms, Gg, Gs^Fms, Gg, Gg, Gg, Gs^Fms, Gg, Gs^Fms, Gg, Gs^Fms, Gg, Gg, Gg, Gs^Fms, Gg, Gg, Gg, Gs^Fms, Gg, Gs^Fms, Gg, Gs^Fms, Gg, Gg
+"
+name="Level 1.map"
+random_starting_time=no
+turns=-1
+victory_when_enemies_defeated=yes
+[time]
+	blue=0
+	green=-20
+	id="dawn"
+	image="misc/time-schedules/default/schedule-dawn.png"
+	lawful_bonus=0
+	mask=""
+#textdomain wesnoth-help
+	name=_"Dawn"
+	red=-20
+	sound="ambient/morning.ogg"
+[/time]
+[time]
+	blue=0
+	green=0
+	id="morning"
+	image="misc/time-schedules/default/schedule-morning.png"
+	lawful_bonus=25
+	mask=""
+	name=_"Morning"
+	red=0
+	sound=""
+[/time]
+[time]
+	blue=0
+	green=0
+	id="afternoon"
+	image="misc/time-schedules/default/schedule-afternoon.png"
+	lawful_bonus=25
+	mask=""
+	name=_"Afternoon"
+	red=0
+	sound=""
+[/time]
+[time]
+	blue=-20
+	green=-20
+	id="dusk"
+	image="misc/time-schedules/default/schedule-dusk.png"
+	lawful_bonus=0
+	mask=""
+	name=_"Dusk"
+	red=0
+	sound="ambient/night.ogg"
+[/time]
+[time]
+	blue=-10
+	green=-35
+	id="first_watch"
+	image="misc/time-schedules/default/schedule-firstwatch.png"
+	lawful_bonus=-25
+	mask=""
+	name=_"First Watch"
+	red=-45
+	sound=""
+[/time]
+[time]
+	blue=-10
+	green=-35
+	id="second_watch"
+	image="misc/time-schedules/default/schedule-secondwatch.png"
+	lawful_bonus=-25
+	mask=""
+	name=_"Second Watch"
+	red=-45
+	sound=""
+[/time]
+[side]
+	controller="human"
+	fog=yes
+	gold=100
+	hidden=no
+	income=2
+	no_leader=no
+	share_maps=no
+	share_view=no
+	shroud=no
+	side=1
+	team_name="Player"
+	user_team_name="Player"
+	[village]
+		x=1
+		y=32
+	[/village]
+	[village]
+		x=2
+		y=29
+	[/village]
+	[village]
+		x=3
+		y=33
+	[/village]
+	[village]
+		x=4
+		y=25
+	[/village]
+	[village]
+		x=13
+		y=33
+	[/village]
+	[village]
+		x=17
+		y=28
+	[/village]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Swordsman-1"
+		name="Tydoc"
+		type="Swordsman"
+		unrenamable=no
+		x=7
+		y=31
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Swordsman-2"
+		name="Owodryn"
+		type="Swordsman"
+		unrenamable=no
+		x=6
+		y=30
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Swordsman-3"
+		name="Carocyn"
+		type="Swordsman"
+		unrenamable=no
+		x=5
+		y=30
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Woodsman-4"
+		name="Rhury"
+		type="Woodsman"
+		unrenamable=no
+		x=5
+		y=32
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Woodsman-5"
+		name="Suddyn"
+		type="Woodsman"
+		unrenamable=no
+		x=4
+		y=31
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Woodsman-6"
+		name="Haldarcyn"
+		type="Woodsman"
+		unrenamable=no
+		x=3
+		y=31
+	[/unit]
+	[unit]
+		canrecruit=yes
+		extra_recruit=""
+		id="Lieutenant-7"
+		name="Tin"
+		type="Lieutenant"
+		unrenamable=no
+		x=5
+		y=31
+	[/unit]
+[/side]
+[side]
+	controller="ai"
+	fog=yes
+	gold=200
+	hidden=no
+	income=2
+	no_leader=no
+	share_maps=no
+	share_view=no
+	shroud=no
+	side=2
+	team_name="Undead"
+	user_team_name="Undead"
+	[village]
+		x=30
+		y=1
+	[/village]
+	[village]
+		x=31
+		y=3
+	[/village]
+	[village]
+		x=35
+		y=9
+	[/village]
+	[village]
+		x=36
+		y=6
+	[/village]
+	[village]
+		x=43
+		y=7
+	[/village]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Ancient Lich-25"
+		name=""
+		type="Ancient Lich"
+		unrenamable=no
+		x=40
+		y=1
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-26"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=42
+		y=1
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-27"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=42
+		y=2
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-28"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=40
+		y=3
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-29"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=39
+		y=2
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-30"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=37
+		y=1
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-31"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=35
+		y=1
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-32"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=36
+		y=2
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-33"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=34
+		y=4
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-34"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=39
+		y=5
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-35"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=43
+		y=5
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-36"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=41
+		y=6
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-37"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=36
+		y=4
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-38"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=38
+		y=3
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-39"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=43
+		y=3
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-40"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=42
+		y=3
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Ghoul-41"
+		name=""
+		type="Ghoul"
+		unrenamable=no
+		x=9
+		y=15
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Ghoul-42"
+		name=""
+		type="Ghoul"
+		unrenamable=no
+		x=6
+		y=15
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Necrophage-46"
+		name=""
+		type="Necrophage"
+		unrenamable=no
+		x=5
+		y=13
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Ghoul-47"
+		name=""
+		type="Ghoul"
+		unrenamable=no
+		x=8
+		y=13
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Ghoul-48"
+		name=""
+		type="Ghoul"
+		unrenamable=no
+		x=4
+		y=14
+	[/unit]
+[/side]
+[side]
+	controller="ai"
+	fog=yes
+	gold=0
+	hidden=no
+	income=0
+	no_leader=yes
+	share_maps=no
+	share_view=no
+	shroud=no
+	side=3
+	team_name="Allie"
+	user_team_name="Allie"
+	[village]
+		x=23
+		y=32
+	[/village]
+	[village]
+		x=31
+		y=30
+	[/village]
+	[village]
+		x=33
+		y=33
+	[/village]
+	[village]
+		x=35
+		y=26
+	[/village]
+	[village]
+		x=37
+		y=29
+	[/village]
+	[village]
+		x=43
+		y=27
+	[/village]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Duelist-16"
+		name="Dacyn"
+		type="Duelist"
+		unrenamable=no
+		x=42
+		y=29
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Duelist-17"
+		name="Goryn"
+		type="Duelist"
+		unrenamable=no
+		x=40
+		y=29
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Duelist-18"
+		name="Blenvan"
+		type="Duelist"
+		unrenamable=no
+		x=39
+		y=32
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Longbowman-19"
+		name="Aethyn"
+		type="Longbowman"
+		unrenamable=no
+		x=40
+		y=32
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Longbowman-20"
+		name="Ryn"
+		type="Longbowman"
+		unrenamable=no
+		x=40
+		y=30
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Longbowman-21"
+		name="Bleodoc"
+		type="Longbowman"
+		unrenamable=no
+		x=42
+		y=30
+	[/unit]
+	[unit]
+		canrecruit=yes
+		extra_recruit=""
+		id="Master at Arms-22"
+		name="Tunnyc"
+		type="Master at Arms"
+		unrenamable=no
+		x=42
+		y=31
+	[/unit]
+[/side]
