@@ -1,0 +1,422 @@
+current_time=0
+description=""
+experience_modifier=70
+id="my_first_map.map"
+map_data="border_size=1
+usage=map
+
+Rr, Rr, Rr, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Sm
+Rr, Rr, 2 Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw
+Gll^Fdw, Gll^Fdw, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Sm^Fmw, Sm^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw
+Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Rr, Rr, Rr, Rr, Rr, Rr, Sm, Sm, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw
+Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Rr, Rr, Rr, Rr, Rr, Rr, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw
+Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Sm^Fmw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw
+Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Sm, Sm, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Sm
+Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Sm, Sm, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Sm
+Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Sm, Sm, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Sm
+Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Sm, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Rr, Rr
+Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Rr, Rr, Rr, Rr
+Sm^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Rr, Rr, Rr, Rr, Rr, Rr
+Sm, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Sm, Uu^Vud, Sm, Rp^Vhcr, Sm, Uu^Vud, Sm, Sm, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Sm
+Sm^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Sm, Sm, Rr, Rr, Rr, Rr, Rr^Vhc, Rr, Uu^Vud, Rr, Rp^Vhcr, Rr, Uu^Vud, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Sm^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Sm, Uu^Vud, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Sm^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Sm, Uu^Vu, Rr, Rr, Rr, Uu^Vu, Uu^Vud, Uu^Vu, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Sm, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Rr^Vhc, Rr, Rr^Vhc, Rr, Uu^Vud, Rr^Vhc, Rr^Vhc, Uu^Vud, Rr, Rr, Rr^Vhc, Uu^Vud, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Uu^Vud, Uu^Vu, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Uu^Vud, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Sm
+Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Rr, Uu^Vud, Rr, Rr, Rr, Rr, Uu^Vud, Rr, Rr^Vhc, Rp^Vhcr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Rp^Vhcr, Uu^Vu, Uu^Vud, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Sm, Sm, Sm, Gll^Fdw, Sm^Qov, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Sm, Rr, Rr, Rr, Rr, Rr, Rr, Sm, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Sm, Sm, Md^Qov, Md^Qov, Md^Qov, Sm, Md^Qov, Sm, Md^Qov, Sm, Sm, Sm, Sm, Gll^Fdw, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Sm, Sm, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Md^Qov, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Sm, Sm, Sm, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Md^Qov, Md^Qov, Gll^Fdw, Gll^Fdw, Sm, Sm, Gll^Fdw, Sm, Gll^Fdw, Sm, Gll^Fdw, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Md^Qov, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Rr, Rr, Rr, Qxu^Bp/, Md^Qov, Rr, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw
+Md^Qov, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Rr, Rr, Rr, Rr, Rr, Rr, Md^Qov, Md^Qov, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw
+Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Hhd^Vhhr, Sm, Sm, Gll^Fdw, Rr, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Md^Qov, Md^Qov, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw
+Sm, Gll^Fdw, Hhd^Vhhr, Hhd^Vhhr, Hhd^Vhhr, Hhd^Vhhr, Rr, Rr, Rr, Rr, Rr, Rr, Sm, Sm, Gll^Fmw, Sm, Md^Qov, Md^Qov, Md^Qov, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw
+Hhd^Vhhr, Hhd^Vhhr, Ch, Ch, Ch, Rr, Rr, Rr, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Sm, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Sm, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Hhd^Vhhr, Ch, Ch, Ch, Ch, Ch, Rr, Rr, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Sm, Sm, Md^Qov, Md^Qov, Sm, Sm, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Hhd^Vhhr, Ch, Ch, 1 Kh, Ch, Ch, Hhd^Vhhr, Hhd^Vhhr, Sm^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Sm, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Sm, Sm, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Hhd^Vhhr, Ch, Ch, Ch, Ch, Ch, Hhd^Vhhr, Sm^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Sm, Md^Qov, Md^Qov, Md^Qov, Md^Qov, Sm, Sm, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+Hhd^Vhhr, Hhd^Vhhr, Hhd^Vhhr, Hhd^Vhhr, Hhd^Vhhr, Hhd^Vhhr, Sm, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Sm^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Sm, Sm, Md^Qov, Sm, Md^Qov, Md^Qov, Md^Qov, Sm, Sm, Sm, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fmw, Gll^Fmw, Gll^Fdw, Gll^Fdw, Gll^Fdw, Gll^Fdw
+"
+name="my_first_map.map"
+random_starting_time=no
+turns=-1
+victory_when_enemies_defeated=yes
+[time]
+	blue=0
+	green=-20
+	id="dawn"
+	image="misc/time-schedules/default/schedule-dawn.png"
+	lawful_bonus=0
+	mask=""
+#textdomain wesnoth-help
+	name=_"Dawn"
+	red=-20
+	sound="ambient/morning.ogg"
+[/time]
+[time]
+	blue=0
+	green=0
+	id="morning"
+	image="misc/time-schedules/default/schedule-morning.png"
+	lawful_bonus=25
+	mask=""
+	name=_"Morning"
+	red=0
+	sound=""
+[/time]
+[time]
+	blue=0
+	green=0
+	id="afternoon"
+	image="misc/time-schedules/default/schedule-afternoon.png"
+	lawful_bonus=25
+	mask=""
+	name=_"Afternoon"
+	red=0
+	sound=""
+[/time]
+[time]
+	blue=-20
+	green=-20
+	id="dusk"
+	image="misc/time-schedules/default/schedule-dusk.png"
+	lawful_bonus=0
+	mask=""
+	name=_"Dusk"
+	red=0
+	sound="ambient/night.ogg"
+[/time]
+[time]
+	blue=-10
+	green=-35
+	id="first_watch"
+	image="misc/time-schedules/default/schedule-firstwatch.png"
+	lawful_bonus=-25
+	mask=""
+	name=_"First Watch"
+	red=-45
+	sound=""
+[/time]
+[time]
+	blue=-10
+	green=-35
+	id="second_watch"
+	image="misc/time-schedules/default/schedule-secondwatch.png"
+	lawful_bonus=-25
+	mask=""
+	name=_"Second Watch"
+	red=-45
+	sound=""
+[/time]
+[side]
+	controller="human"
+	fog=no
+	gold=0
+	hidden=no
+	income=2
+	no_leader=yes
+	share_maps=no
+	share_view=no
+	shroud=no
+	side=1
+	team_name=""
+	user_team_name=""
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Lieutenant-3"
+		name="Rubry"
+		type="Lieutenant"
+		unrenamable=no
+		x=3
+		y=32
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Woodsman-4"
+		name="Mugwyn"
+		type="Woodsman"
+		unrenamable=no
+		x=2
+		y=30
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Woodsman-5"
+		name="Blunvanyc"
+		type="Woodsman"
+		unrenamable=no
+		x=4
+		y=32
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Woodsman-6"
+		name="Rhaent"
+		type="Woodsman"
+		unrenamable=no
+		x=5
+		y=33
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Peasant-7"
+		name="Gaddyn"
+		type="Peasant"
+		unrenamable=no
+		x=5
+		y=32
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Peasant-8"
+		name="Gwudoc"
+		type="Peasant"
+		unrenamable=no
+		x=5
+		y=31
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Peasant-9"
+		name="Tircyn"
+		type="Peasant"
+		unrenamable=no
+		x=3
+		y=31
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Peasant-10"
+		name="Vent"
+		type="Peasant"
+		unrenamable=no
+		x=3
+		y=30
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Peasant-11"
+		name="Aethonnyc"
+		type="Peasant"
+		unrenamable=no
+		x=4
+		y=30
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Peasant-12"
+		name="Bleraent"
+		type="Peasant"
+		unrenamable=no
+		x=4
+		y=31
+	[/unit]
+[/side]
+[side]
+	controller="human"
+	fog=no
+	gold=0
+	hidden=no
+	income=2
+	no_leader=yes
+	share_maps=no
+	share_view=no
+	shroud=no
+	side=2
+	team_name=""
+	user_team_name=""
+	[unit]
+		canrecruit=no
+		extra_recruit="Ancient Lich,Fugitive"
+		id="Lich-13"
+		name=""
+		type="Lich"
+		unrenamable=no
+		x=2
+		y=1
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-14"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=9
+		y=5
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-15"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=8
+		y=4
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-16"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=6
+		y=3
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-17"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=5
+		y=3
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-18"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=5
+		y=2
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-19"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=3
+		y=2
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-20"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=3
+		y=3
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-21"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=5
+		y=4
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-22"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=11
+		y=5
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-23"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=10
+		y=6
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-24"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=13
+		y=6
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Walking Corpse-25"
+		name=""
+		type="Walking Corpse"
+		unrenamable=no
+		x=13
+		y=7
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Skeleton Archer-26"
+		name=""
+		type="Skeleton Archer"
+		unrenamable=no
+		x=8
+		y=3
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Skeleton Archer-27"
+		name=""
+		type="Skeleton Archer"
+		unrenamable=no
+		x=7
+		y=5
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Skeleton Archer-28"
+		name=""
+		type="Skeleton Archer"
+		unrenamable=no
+		x=12
+		y=6
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Skeleton Archer-29"
+		name=""
+		type="Skeleton Archer"
+		unrenamable=no
+		x=11
+		y=6
+	[/unit]
+	[unit]
+		canrecruit=no
+		extra_recruit=""
+		id="Skeleton Archer-30"
+		name=""
+		type="Skeleton Archer"
+		unrenamable=no
+		x=4
+		y=2
+	[/unit]
+[/side]
